@@ -1,1 +1,1 @@
-# Stress
+# Stress off center
